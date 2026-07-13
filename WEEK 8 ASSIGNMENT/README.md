@@ -12,7 +12,12 @@ through a Command Line Interface (CLI).
 This project was developed as part of the **Celebal Technologies Data
 Engineering Internship -- Week 8 Assignment**.
 
-------------------------------------------------------------------------
+## 📌 Intern Details
+* **Name:** Shauryansh Chauhan 
+* **Institution:** MMDU 
+* **Course:** B.Tech Computer Science & Engineering
+* **Role:** Data Engineer
+* **Company Name:** Celebal Technologies
 
 # 🎯 Objective
 
